@@ -15,6 +15,8 @@ https://github.com/user-attachments/assets/41c4e007-864c-4ef8-93d7-4c494ebdae33
 
 ### Install Deps
 
+[Install uv](https://docs.astral.sh/uv/getting-started/installation/) if you don't have it already, then -
+
 ```sh
 uv sync
 ```

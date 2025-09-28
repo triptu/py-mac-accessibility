@@ -8,6 +8,11 @@ A Streamlit web app for exploring macOS application accessibility trees with vis
 - summary statisitics for the accessibility tree
 
 
+
+https://github.com/user-attachments/assets/41c4e007-864c-4ef8-93d7-4c494ebdae33
+
+
+
 ### Install Deps
 
 ```sh
